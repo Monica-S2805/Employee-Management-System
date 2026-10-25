@@ -290,8 +290,6 @@ Use Postman or any API testing tool to interact with the API endpoints. Here are
 
     Feel free to contribute to the project by opening issues or creating pull requests.
 
-  ## License
 
-    This project is licensed under the [MIT License](LICENSE).
 
     
